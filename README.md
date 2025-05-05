@@ -2,6 +2,7 @@ MoviesApp
 
 MoviesApp is an Android application built using modern development practices and architectural patterns. It features a clean, modular structure and demonstrates efficient handling of APIs, offline storage, and state management. The app uses Jetpack Compose for UI, Hilt for dependency injection, Retrofit for API integration, Room for database management, and WorkManager for background tasks.
 
+
 Features
 
 Popular and Trending Movies: Displays paginated lists of popular and trending movies.
